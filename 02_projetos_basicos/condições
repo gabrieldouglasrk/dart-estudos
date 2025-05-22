@@ -1,0 +1,24 @@
+// if, else if, else - Controle de Fluxo
+if (condição) {
+  // Código a ser executado se a condição for verdadeira
+} else if (outraCondição) {
+  // Código a ser executado se a outra condição for verdadeira
+} else {
+  // Código a ser executado se nenhuma das condições anteriores for verdadeira
+}
+
+
+// Switch/case - Controle de Fluxo
+Switch (variavel) {
+  case valor1:
+    // execita algo
+    break;
+  case valor2:
+    // outro valor 
+    break;
+    default:
+    // nenhum dos anteriores
+}
+
+// Operador ternário - Controle de Fluxo
+condição ? valorSeVerdadeiro : valorSeFalso;

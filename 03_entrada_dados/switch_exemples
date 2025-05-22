@@ -1,0 +1,14 @@
+void main() {
+  switch (variavel) {
+    case valor1:
+    // código para o caso 1 
+    break;
+
+    case valor2:
+    // código para o caso 2
+    break;
+
+    default:
+    // código se nenhum caso acima for satisfeito
+  }
+}

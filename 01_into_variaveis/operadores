@@ -1,0 +1,14 @@
+//Types Variables
+//int, double, string, bool
+void main() {
+  int idade = 25;
+  double altura = 1.75;
+  String nome = "João";
+  bool gostaDeProgramar = true;
+  var cidade = "São Paulo";
+  var numero = 10
+  dynamic dado = 5;
+  dado = "Texto"; //Válido, pois é dynamic
+  final agora = DateTime.now()
+  const pi = 3.14; 
+  }
